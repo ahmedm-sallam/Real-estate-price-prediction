@@ -16,6 +16,7 @@ This GitHub repository provides a comprehensive implementation of linear regress
 ## Usage
 1. **Clone the repository:**
 > git clone https://github.com/ahmedm-sallam/Real-estate-price-prediction.git
+
 > cd Real-estate-price-prediction
 
 2. **Install dependencies:**
